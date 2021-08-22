@@ -1,0 +1,23 @@
+* {
+    margin: 2px;
+    font-family: monospace;
+}
+
+h1 {
+    color: red;
+    font-family: Lobster, monospace;
+}
+
+.info {
+    background-color: silver;
+    width: 230px;
+    height: 70px;
+}
+
+.smaller-image {
+    width: 100px;
+    height: 100px;
+    border-style: solid;
+    border-radius: 50%;
+    border-width: 0px;;
+}
